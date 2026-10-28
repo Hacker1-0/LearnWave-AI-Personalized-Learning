@@ -106,3 +106,8 @@ The level changes the model prompt's vocabulary, explanation depth, examples, an
 - [Gemini API getting started guide](https://ai.google.dev/gemini-api/docs/get-started)
 - [Gemini content generation API](https://ai.google.dev/api/generate-content)
 - [Streamlit documentation](https://docs.streamlit.io/)
+
+## Submission files
+
+- [Project presentation](submission/LearnWave_AI_Project_Presentation.pptx)
+- [Demo video](submission/LearnWave_AI_Demo.mp4)
